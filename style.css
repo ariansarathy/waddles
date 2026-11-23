@@ -1,8 +1,8 @@
 /* Waddles website. Same Cocoa palette and type as the app. Fonts are self-hosted, so no visitor data goes to a font service. */
-@font-face { font-family: Anton; src: url(fonts/Anton-Regular.ttf) format("truetype"); font-display: swap; }
-@font-face { font-family: Nunito; font-weight: 600; src: url(fonts/Nunito-SemiBold.ttf) format("truetype"); font-display: swap; }
-@font-face { font-family: Nunito; font-weight: 700; src: url(fonts/Nunito-Bold.ttf) format("truetype"); font-display: swap; }
-@font-face { font-family: Nunito; font-weight: 900; src: url(fonts/Nunito-Black.ttf) format("truetype"); font-display: swap; }
+@font-face { font-family: Anton; src: url(Anton-Regular.ttf) format("truetype"); font-display: swap; }
+@font-face { font-family: Nunito; font-weight: 600; src: url(Nunito-SemiBold.ttf) format("truetype"); font-display: swap; }
+@font-face { font-family: Nunito; font-weight: 700; src: url(Nunito-Bold.ttf) format("truetype"); font-display: swap; }
+@font-face { font-family: Nunito; font-weight: 900; src: url(Nunito-Black.ttf) format("truetype"); font-display: swap; }
 
 :root {
   --paper: #F9EFE2; --card: #FDF8EF; --edge: #EADAC3; --edge-strong: #D6BFA0;
